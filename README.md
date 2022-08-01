@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Salahudin-cloud&color=orange)
+![](https://komarev.com/ghpvc/?username=Salahudin-cloud&color=orange&style=for-the-badge)
 ### Hi there 👋, My Name is Salahudin
 Im Beginner Programer who insterest with Android Development,Web Development
 <br>
