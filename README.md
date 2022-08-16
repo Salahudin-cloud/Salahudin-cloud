@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Salahudin-cloud&color=orange&style=for-the-badge)
 ### Hi there 👋, My Name is Salahudin
-Im Beginner Programer who insterest with Android Development,Web Development
+I'm a Beginner Programmer interested in Android Development and Web Development
 <br>
 
 What i use : 
