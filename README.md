@@ -10,9 +10,4 @@ What i use :
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salahudin-cloud&theme=dracula&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Salahudin-cloud&show_icons=true&theme=dracula)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Salahudin-cloud&theme=dracula) 
- 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salahudin-cloud&show_icons=true&theme=dark)
