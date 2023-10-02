@@ -3,10 +3,9 @@
 I'm a Beginner Programmer who like  Android Development and Web Development
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salahudin-cloud&show_icons=true&theme=dark) 
-<br>
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salahudin-cloud&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salahudin-cloud&show_icons=true&theme=dark)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salahudin-cloud&layout=compact&theme=dark)
+
+
 
 
 
