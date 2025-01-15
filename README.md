@@ -1,13 +1,26 @@
-![](https://komarev.com/ghpvc/?username=Salahudin-cloud&color=orange&style=for-the-badge)
-### Hi there!, My Name is Salahudin
-I'm a Beginner Programmer who like  Android Development and Web Development
-
-
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
+  <!-- Kotlin Data Class Block -->
+  <div style="background-color: #f5f5f5; padding: 10px; border-radius: 8px; font-family: monospace;">
+    <pre>
+data class Profile(
+    val name: String = "Salahudin-cloud",
+    val description: String = "Passionate developer exploring new tech",
+    val languages: List<String> = listOf("Java", "Kotlin", "PHP"),
+    val focus: List<String> = listOf("Web", "Android")
+)
+    </pre>
+  </div>
+
+  <!-- GitHub Stats -->
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=Salahudin-cloud" />
+
+  <!-- Language Stats -->
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Salahudin-cloud&layout=compact&langs_count=8&card_width=320" />
+  
+  <!-- GIF -->
   <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" height="200" width="200">
 </div>
+
 
 
 
