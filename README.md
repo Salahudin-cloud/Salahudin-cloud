@@ -10,15 +10,9 @@ data class Profile(
 )
     </pre>
   </div>
-
-  <!-- GitHub Stats -->
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Salahudin-cloud" />
-
-  <!-- Language Stats -->
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Salahudin-cloud&layout=compact&langs_count=8&card_width=320" />
-  
-  <!-- GIF -->
   <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" height="200" width="200">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Salahudin-cloud" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Salahudin-cloud&layout=compact&langs_count=8&card_width=320" />
 </div>
 
 
