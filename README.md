@@ -10,7 +10,7 @@ data class Profile(
     val github: String = "https://github.com/Salahudin-cloud",
     val linkedin: String = "https://www.linkedin.com/in/salahudin-al",
     val instagram: String = "https://www.instagram.com/is.icloud",
-    val location: String = "Jakarta, Indonesia",
+    val location: String = "Magelang, Indonesia",
     val hobbies: List<String> = listOf("Gaming", "Music")
 )
     </pre>
