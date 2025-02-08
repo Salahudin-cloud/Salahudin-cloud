@@ -21,6 +21,5 @@ data class Profile(
 
 
 
-
 [![An image of @salahudincloud's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/salahudincloud)](https://holopin.io/@salahudincloud)
 
