@@ -18,7 +18,6 @@ data class Profile(
 </div>
 <div style="display: flex; justify-content: center; gap: 5px;">
   <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Salahudin-cloud&theme=github_dark" alt="Profile Details" />
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Salahudin-cloud&theme=github_dark" alt="Repo Details" />
   <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Salahudin-cloud&theme=github_dark" alt="Commit Details" />
 </div>
 
