@@ -15,11 +15,12 @@ data class Profile(
 )
     </pre>
   </div>
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Salahudin-cloud" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Salahudin-cloud&layout=compact&langs_count=8&card_width=320" />
 </div>
-
-
+<div style="display: flex; justify-content: center; gap: 5px;">
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Salahudin-cloud&theme=github_dark" alt="Profile Details" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Salahudin-cloud&theme=github_dark" alt="Repo Details" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Salahudin-cloud&theme=github_dark" alt="Commit Details" />
+</div>
 
 [![An image of @salahudincloud's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/salahudincloud)](https://holopin.io/@salahudincloud)
 
