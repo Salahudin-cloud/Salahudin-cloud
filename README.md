@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=Salahudin-cloud&color=green)
+
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
   <div style="padding: 10px; border-radius: 8px; font-family: monospace;">
     <pre>
@@ -16,10 +17,15 @@ data class Profile(
     </pre>
   </div>
 </div>
-<div style="display: flex; justify-content: center; gap: 5px;">
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Salahudin-cloud&theme=github_dark" alt="Profile Details" />
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Salahudin-cloud&theme=github_dark" alt="Commit Details" />
-</div>
+<!-- Copy-paste in your Readme.md file -->
 
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=69721453" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=69721453&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @Salahudin-cloud" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=69721453&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 [![An image of @salahudincloud's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/salahudincloud)](https://holopin.io/@salahudincloud)
 
