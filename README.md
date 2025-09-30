@@ -19,13 +19,7 @@ data class Profile(
 </div>
 <!-- Copy-paste in your Readme.md file -->
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=69721453" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=69721453&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @Salahudin-cloud" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=69721453&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salahudin-cloud&show_icons=true&bg_color=00000000&locale=ja)
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 [![An image of @salahudincloud's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/salahudincloud)](https://holopin.io/@salahudincloud)
 
