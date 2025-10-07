@@ -20,6 +20,8 @@ data class Profile(
 <!-- Copy-paste in your Readme.md file -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salahudin-cloud&show_icons=true&bg_color=00000000&locale=ja)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Salahudin-cloud&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 [![An image of @salahudincloud's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/salahudincloud)](https://holopin.io/@salahudincloud)
 
