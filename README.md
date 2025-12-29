@@ -16,7 +16,7 @@ data class Profile(
 </div>
 <!-- Copy-paste in your Readme.md file -->
       
-[![GitHub Streak](https://streak-stats.demolab.com?user=cloudlein&theme=dark&locale=zh_Hans)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=cloudlein&theme=dark&hide_border=true&locale=zh_Hans&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![Codewars](https://github.r2v.ch/codewars?user=cloudlein)
 
