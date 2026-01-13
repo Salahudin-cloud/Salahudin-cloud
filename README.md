@@ -5,7 +5,7 @@
 data class Profile(
     val name: String = "Cloudlein",
     val description: String = "Passionate developer exploring new tech",
-    val languages: List<String> = listOf("Java", "PHP", "Rust),
+    val languages: List<String> = listOf("Java", "PHP", "Rust", "Golang"),
     val focus: List<String> = listOf("Web", "Android"),
     val github: String = "https://github.com/cloudlein",
     val location: String = "张家界市，湖南省，中国",
