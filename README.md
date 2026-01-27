@@ -20,7 +20,12 @@ data class Profile(
 
 ![Codewars](https://github.r2v.ch/codewars?user=cloudlein)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31dihte7nfotfwwan7wavutavzwu&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31dihte7nfotfwwan7wavutavzwu&redirect=true)
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cloudlein&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 [![An image of @salahudincloud's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/salahudincloud)](https://holopin.io/@salahudincloud)
 
